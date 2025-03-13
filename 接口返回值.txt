@@ -27,7 +27,7 @@
 	{
 		"DeptId":"D14A009961",
 		"DeptParentId":"D14A009960",
-		"DeptCName":"IOT-A BU-显示生态事业部-贵阳工厂-制造部",
+		"DeptCName":"IOT-A BU-显示sfsf生态事业部-贵阳工厂-制造部",
 		"ShortName":"制造部",
 		"MWorkId":"",
 		"MWorkId2":"",
