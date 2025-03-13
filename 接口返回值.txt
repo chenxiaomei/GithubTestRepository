@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<soap:Body>
+<GetDeptC01Response xmlns="http://tempuri.org/">
+<GetDeptC01Result>
+{
+	"Status":"suc",
+	"Message":"成功",
+	"Result":[
+	{
+		"DeptId":"D14A023100",
+		"DeptParentId":"D14A121900",
+		"DeptCName":"IOT-A BU-财务处",
+		"ShortName":"财务处",
+		"MWorkId":"0196645",
+		"MWorkId2":"",
+		"CompanyId":"",
+		"CostCId":"D35002",
+		"CostCName":"TVA财务部",
+		"Level":18,
+		"Level2":3,
+		"DeptType":"dept",
+		"EnableFlag":true,
+		"CreateTime":"2021-03-17 20:57:40",
+		"UpdateTime":"2025-01-17 15:12:16"
+	},
+	{
+		"DeptId":"D14A009961",
+		"DeptParentId":"D14A009960",
+		"DeptCName":"IOT-A BU-显示生态事业部-贵阳工厂-制造部",
+		"ShortName":"制造部",
+		"MWorkId":"",
+		"MWorkId2":"",
+		"CompanyId":"",
+		"CostCId":"L38001",
+		"CostCName":"整机制造处",
+		"Level":5,
+		"Level2":5,
+		"DeptType":"dept",
+		"EnableFlag":true,
+		"CreateTime":"2025-02-07 17:57:15",
+		"UpdateTime":"2025-02-07 18:14:31"
+	},
+
+后面数据被日志截断了，只能看到这里了
