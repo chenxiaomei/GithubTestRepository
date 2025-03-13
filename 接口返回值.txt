@@ -33,7 +33,7 @@
 		"MWorkId2":"",
 		"CompanyId":"",
 		"CostCId":"L38001",
-		"CostCName":"整机制造处",
+		"CostCName":"整机制造处sfsf",
 		"Level":5,
 		"Level2":5,
 		"DeptType":"dept",
